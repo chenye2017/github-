@@ -1,14 +1,11 @@
-ks
 
+<<<<<<< HEAD
 iiiii
 ;;;
 amend
-
-<<<<<<< HEAD
-s22s
 =======
-swwws
->>>>>>> e256ac2712ced06b58b3d0166f1b58cf2359d338
+
+>>>>>>> master
 
 
-;;
+1111sss
