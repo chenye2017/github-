@@ -1,5 +1,11 @@
 
+<<<<<<< HEAD
+iiiii
+;;;
+amend
+=======
 
+>>>>>>> master
 
 
 1111sss
