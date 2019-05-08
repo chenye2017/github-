@@ -1,5 +1,23 @@
+illl
+
+ooo
+<<<<<<< HEAD
+iiiii
+;;;
+amend
+=======
 
 
+<<<<<<< HEAD
+ssss
+=======
+i
+
+
+sss
+>>>>>>> master
 
 ssss
+
+>>>>>>> e0cdfb779f08d0dfd92eefbb140ffda6d98c6fda
 1111sss
