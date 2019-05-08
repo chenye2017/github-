@@ -1,4 +1,12 @@
 
-now`:
-ss
+<<<<<<< HEAD
+iios
+
 ooossso
+=======
+now`:
+ssss
+oo
+
+sossso
+>>>>>>> master
